@@ -72,6 +72,7 @@ void main(void)
 	cout << "5.Печена \n";
 
 	
+	cout << "8.1 Фантастика \n";
 
 	system("pause");
 }
