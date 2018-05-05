@@ -40,6 +40,10 @@ void main(void)
 	cout << "3. Пушкін \n";
 	cout << "4. Брати Грим \n";
 	cout << "5. Іван Франко  \n";
+	cout << "1.Варена \n";
+	cout << "2.Жарена \n";
+
+	
 
 	system("pause");
 }
