@@ -73,6 +73,7 @@ void main(void)
 
 	
 	cout << "8.1 Фантастика \n";
+	cout << "8.2 Казки \n";
 
 	system("pause");
 }
