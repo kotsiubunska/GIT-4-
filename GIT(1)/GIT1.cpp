@@ -75,6 +75,7 @@ void main(void)
 	cout << "8.1 Фантастика \n";
 	cout << "8.2 Казки \n";
 	cout << "8.3 Пригодницькі \n";
+	cout << "8.4 Наукові \n";
 
 	system("pause");
 }
