@@ -58,6 +58,7 @@ void main(void)
 	cout << "3. Астрал \n";
 	cout << "1.Варена \n";
 	cout << "2.Жарена \n";
+	cout << "3.Парена \n";
 
 	
 	cout
